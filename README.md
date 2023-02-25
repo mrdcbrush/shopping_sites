@@ -4,10 +4,10 @@
 
 ## Books
 
-* [Bookshop](https://bookshop.org)
+* [Bookshop](https://bookshop.org){:target="_blank"}
 
 
 ## Electronics
 
-* [New Egg](https://newegg.com/)
-* [Microcenter](https://microcenter.com/)
+* [New Egg](https://newegg.com/){:target="_blank"}
+* [Microcenter](https://microcenter.com/){:target="_blank"}

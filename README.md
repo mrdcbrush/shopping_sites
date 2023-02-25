@@ -6,12 +6,11 @@
 
 * [Bookshop](https://bookshop.org)
 
-
 ## Electronics
 
-* [New Egg](https://newegg.com/)
+* [B&H Photo](https://www.bhphotovideo.com)
 * [Microcenter](https://microcenter.com/)
-
+* [New Egg](https://newegg.com/)
 
 ## Personal Goods / Home Goods
 

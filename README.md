@@ -5,6 +5,7 @@
 ## Books
 
 * [Bookshop](https://bookshop.org)
+* [Half Price Books](https://hpb.com/home?&size=25&#product-panel-home)
 
 ## Electronics
 

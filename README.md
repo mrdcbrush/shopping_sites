@@ -4,6 +4,9 @@
 
 ## Computer Stuff
 
+[New Egg](https://newegg.com/)
+[Microcenter](https://microcenter.com/)
+
 ## Books
 
-(Bookshop)[https://bookshop.org]
+[Bookshop](https://bookshop.org)
